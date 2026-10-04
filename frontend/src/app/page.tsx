@@ -39,10 +39,10 @@ export default function LandingPage() {
             </div>
             <div className="flex flex-col">
               <span className="font-serif text-xl font-bold tracking-tight text-neutral-900 leading-none">
-                Vita
+                MyHealth
               </span>
               <span className="text-[9px] font-mono font-medium tracking-widest text-teal-700 uppercase leading-tight">
-                Health Record
+                Universal Health Platform
               </span>
             </div>
           </Link>
@@ -626,8 +626,8 @@ export default function LandingPage() {
           
           <div className="flex items-center space-x-2">
             <HeartPulse className="w-4 h-4 text-teal-600" />
-            <span className="font-serif text-sm font-bold text-neutral-900">Vita</span>
-            <span className="font-mono text-[10px] text-neutral-400">UNIVERSAL HEALTH RECORD</span>
+            <span className="font-serif text-sm font-bold text-neutral-900">MyHealth</span>
+            <span className="font-mono text-[10px] text-neutral-400">UNIVERSAL HEALTH PLATFORM</span>
           </div>
 
           <div className="flex items-center space-x-6">
@@ -638,7 +638,7 @@ export default function LandingPage() {
           </div>
 
           <p className="font-sans">
-            © 2026 Vita — Universal Longitudinal Health Record & Dynamic Chronic Disease Analytics. Built for clinicians.
+            © 2026 MyHealth — Universal Longitudinal Health Record & Dynamic Chronic Disease Analytics.
           </p>
 
         </div>
