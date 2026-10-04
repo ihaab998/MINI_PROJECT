@@ -1,6 +1,6 @@
 import json
 from fastapi import APIRouter, HTTPException, status, UploadFile, File, Form
-from typing import List, Optional
+from typing import List, Optional, Dict
 from uuid import UUID, uuid4
 from datetime import date, datetime
 
